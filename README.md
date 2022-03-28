@@ -1,5 +1,3 @@
 # pullRequest
 
----
-Johny Kidd
-Johny Kidd 2
+repo para ver tema de pull requests
